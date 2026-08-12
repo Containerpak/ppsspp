@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=PPSSPP
+Comment=Play PSP games on Linux.
+Exec=ppsspp %U
+Icon=org.ppsspp.PPSSPP
+Terminal=false
+Type=Application
+Categories=Game;Emulator;
+
