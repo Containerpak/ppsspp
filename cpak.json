@@ -4,7 +4,7 @@
   "name": "PPSSPP",
   "description": "Play PSP games on Linux.",
   "version": "1.20.4",
-  "image": "ghcr.io/containerpak/ppsspp@sha256:c656aa9c4d6d9eeb5364261af8dc020c9666370db56f573b86d95582bc708fc7",
+  "image": "ghcr.io/containerpak/ppsspp@sha256:b3f01d6fc49415a26787336c8e55da929c7b780b21f6d6eec4cf10cb9c2c901a",
   "binaries": [
     "/usr/bin/ppsspp"
   ],
